@@ -16,7 +16,6 @@ from pptx.dml.color import RGBColor
 from pptx.enum.dml import MSO_COLOR_TYPE
 from pptx.util import Pt
 
-
 APP_DIR = Path(__file__).resolve().parent
 DEFAULT_TEMPLATE = APP_DIR / "Modelo_Devolutiva_SST_Fortneer.pptx"
 
